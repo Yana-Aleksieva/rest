@@ -1,7 +1,0 @@
-
-
-localhost://3002/api/users - getAll
-localhost://3002/api/users/:id - get one by id
-localhost://3002/api/users/:id/edit - edit one by id;
-localhost://3002/api/users/:id/edit - delete one by id
-localhost://3002/api/publications - get all publications
